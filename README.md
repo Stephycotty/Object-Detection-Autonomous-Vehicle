@@ -1,4 +1,4 @@
-# Object-Detection-Autonomous-Vehicle
+# Object-Detection-Autonomous-Vehicles
 The innovation of autonomous vehicles (AVs) has introduced transformative changes to the 
 transport sector, enhancing safety, productivity, and convenience. Central to the effective 
 operation of autonomous vehicles is the ability to accurately detect and recognize objects in 
